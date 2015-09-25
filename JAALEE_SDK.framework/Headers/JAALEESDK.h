@@ -17,7 +17,8 @@
 #import <JAALEE_SDK/JAALEEDefinitions.h>
 #import <JAALEE_SDK/JAALEEManager.h>
 #import <JAALEE_SDK/JAALEERegion.h>
-
+#import <JAALEE_SDK/EddystoneURL.h>
+#import <JAALEE_SDK/EddystoneUID.h>
 
 #endif /* __JAALEESDK__ */
 

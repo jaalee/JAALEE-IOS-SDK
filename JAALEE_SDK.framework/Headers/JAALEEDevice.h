@@ -117,7 +117,7 @@
 
 
 @property (nonatomic, weak)     id <JAALEEDeviceDelegate>  delegate;
-
+@property (nonatomic, weak)     id <JAALEEDeviceDelegate>  JAALEEdelegate;
 /// @name Publicly available properties
 /**
  *  rssi

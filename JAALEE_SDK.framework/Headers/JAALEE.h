@@ -8,6 +8,14 @@
 
 #import <CoreLocation/CoreLocation.h>
 
+/*
+ *  JAALEE
+ *
+ *  Discussion:
+ *    A single ibeacon device within a JAALEERegion.
+ *
+ */
+
 @interface JAALEE : CLBeacon
 
 @end
