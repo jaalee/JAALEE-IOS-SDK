@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C43FEF671BD77B45003F8614 /* JAALEE_Connectable@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF611BD77B45003F8614 /* JAALEE_Connectable@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF681BD77B45003F8614 /* JAALEE_Img_Connectable@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF621BD77B45003F8614 /* JAALEE_Img_Connectable@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF691BD77B45003F8614 /* JAALEE_Img_Non_Connectable@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF631BD77B45003F8614 /* JAALEE_Img_Non_Connectable@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF6A1BD77B45003F8614 /* JAALEE_Main_Back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF641BD77B45003F8614 /* JAALEE_Main_Back@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF6B1BD77B45003F8614 /* JAALEE_Main_Cycle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF651BD77B45003F8614 /* JAALEE_Main_Cycle@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF6C1BD77B45003F8614 /* JAALEE_Non_Connectable@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF661BD77B45003F8614 /* JAALEE_Non_Connectable@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF6E1BD77B7E003F8614 /* NEW_MAIN_BACK@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF6D1BD77B7E003F8614 /* NEW_MAIN_BACK@2x.png */; settings = {ASSET_TAGS = (); }; };
+		C43FEF7D1BD77BE5003F8614 /* JAALEEChannelSelectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C43FEF711BD77BE5003F8614 /* JAALEEChannelSelectViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C43FEF7E1BD77BE5003F8614 /* JAALEECONFIGUREViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C43FEF731BD77BE5003F8614 /* JAALEECONFIGUREViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C43FEF7F1BD77BE5003F8614 /* JAALEEDATAConfigureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C43FEF751BD77BE5003F8614 /* JAALEEDATAConfigureViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C43FEF811BD77BE5003F8614 /* JAALEEMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C43FEF791BD77BE5003F8614 /* JAALEEMainViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C43FEF821BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C43FEF7C1BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C43FEF861BD77DF2003F8614 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF831BD77DF2003F8614 /* SVProgressHUD.bundle */; settings = {ASSET_TAGS = (); }; };
+		C43FEF871BD77DF2003F8614 /* WaitProgressShow.m in Sources */ = {isa = PBXBuildFile; fileRef = C43FEF851BD77DF2003F8614 /* WaitProgressShow.m */; settings = {ASSET_TAGS = (); }; };
+		C43FEF891BD7A117003F8614 /* Buttom_item_JAALEE@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43FEF881BD7A117003F8614 /* Buttom_item_JAALEE@2x.png */; settings = {ASSET_TAGS = (); }; };
 		C4588BCE1BAA49E1005D9357 /* libz.1.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C4588BCD1BAA49E1005D9357 /* libz.1.2.5.dylib */; };
 		C4588BD01BAA4AA9005D9357 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4588BCF1BAA4AA9005D9357 /* SystemConfiguration.framework */; };
 		C4588BD21BAA4AF2005D9357 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4588BD11BAA4AF2005D9357 /* MobileCoreServices.framework */; };
@@ -21,6 +36,27 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C43FEF611BD77B45003F8614 /* JAALEE_Connectable@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JAALEE_Connectable@2x.png"; sourceTree = "<group>"; };
+		C43FEF621BD77B45003F8614 /* JAALEE_Img_Connectable@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JAALEE_Img_Connectable@2x.png"; sourceTree = "<group>"; };
+		C43FEF631BD77B45003F8614 /* JAALEE_Img_Non_Connectable@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JAALEE_Img_Non_Connectable@2x.png"; sourceTree = "<group>"; };
+		C43FEF641BD77B45003F8614 /* JAALEE_Main_Back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JAALEE_Main_Back@2x.png"; sourceTree = "<group>"; };
+		C43FEF651BD77B45003F8614 /* JAALEE_Main_Cycle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JAALEE_Main_Cycle@2x.png"; sourceTree = "<group>"; };
+		C43FEF661BD77B45003F8614 /* JAALEE_Non_Connectable@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JAALEE_Non_Connectable@2x.png"; sourceTree = "<group>"; };
+		C43FEF6D1BD77B7E003F8614 /* NEW_MAIN_BACK@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NEW_MAIN_BACK@2x.png"; sourceTree = "<group>"; };
+		C43FEF701BD77BE5003F8614 /* JAALEEChannelSelectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JAALEEChannelSelectViewController.h; sourceTree = "<group>"; };
+		C43FEF711BD77BE5003F8614 /* JAALEEChannelSelectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JAALEEChannelSelectViewController.m; sourceTree = "<group>"; };
+		C43FEF721BD77BE5003F8614 /* JAALEECONFIGUREViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JAALEECONFIGUREViewController.h; sourceTree = "<group>"; };
+		C43FEF731BD77BE5003F8614 /* JAALEECONFIGUREViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JAALEECONFIGUREViewController.m; sourceTree = "<group>"; };
+		C43FEF741BD77BE5003F8614 /* JAALEEDATAConfigureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JAALEEDATAConfigureViewController.h; sourceTree = "<group>"; };
+		C43FEF751BD77BE5003F8614 /* JAALEEDATAConfigureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JAALEEDATAConfigureViewController.m; sourceTree = "<group>"; };
+		C43FEF781BD77BE5003F8614 /* JAALEEMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JAALEEMainViewController.h; sourceTree = "<group>"; };
+		C43FEF791BD77BE5003F8614 /* JAALEEMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JAALEEMainViewController.m; sourceTree = "<group>"; };
+		C43FEF7B1BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JAALEETXPOWERSETTINGViewController.h; sourceTree = "<group>"; };
+		C43FEF7C1BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JAALEETXPOWERSETTINGViewController.m; sourceTree = "<group>"; };
+		C43FEF831BD77DF2003F8614 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
+		C43FEF841BD77DF2003F8614 /* WaitProgressShow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WaitProgressShow.h; sourceTree = "<group>"; };
+		C43FEF851BD77DF2003F8614 /* WaitProgressShow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WaitProgressShow.m; sourceTree = "<group>"; };
+		C43FEF881BD7A117003F8614 /* Buttom_item_JAALEE@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Buttom_item_JAALEE@2x.png"; sourceTree = "<group>"; };
 		C4588BCD1BAA49E1005D9357 /* libz.1.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.5.dylib; path = usr/lib/libz.1.2.5.dylib; sourceTree = SDKROOT; };
 		C4588BCF1BAA4AA9005D9357 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		C4588BD11BAA4AF2005D9357 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
@@ -56,6 +92,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C43FEF601BD77B45003F8614 /* RES */ = {
+			isa = PBXGroup;
+			children = (
+				C43FEF881BD7A117003F8614 /* Buttom_item_JAALEE@2x.png */,
+				C43FEF6D1BD77B7E003F8614 /* NEW_MAIN_BACK@2x.png */,
+				C43FEF611BD77B45003F8614 /* JAALEE_Connectable@2x.png */,
+				C43FEF621BD77B45003F8614 /* JAALEE_Img_Connectable@2x.png */,
+				C43FEF631BD77B45003F8614 /* JAALEE_Img_Non_Connectable@2x.png */,
+				C43FEF641BD77B45003F8614 /* JAALEE_Main_Back@2x.png */,
+				C43FEF651BD77B45003F8614 /* JAALEE_Main_Cycle@2x.png */,
+				C43FEF661BD77B45003F8614 /* JAALEE_Non_Connectable@2x.png */,
+			);
+			path = RES;
+			sourceTree = "<group>";
+		};
+		C43FEF6F1BD77BE5003F8614 /* Support JAALEE */ = {
+			isa = PBXGroup;
+			children = (
+				C43FEF701BD77BE5003F8614 /* JAALEEChannelSelectViewController.h */,
+				C43FEF711BD77BE5003F8614 /* JAALEEChannelSelectViewController.m */,
+				C43FEF721BD77BE5003F8614 /* JAALEECONFIGUREViewController.h */,
+				C43FEF731BD77BE5003F8614 /* JAALEECONFIGUREViewController.m */,
+				C43FEF741BD77BE5003F8614 /* JAALEEDATAConfigureViewController.h */,
+				C43FEF751BD77BE5003F8614 /* JAALEEDATAConfigureViewController.m */,
+				C43FEF781BD77BE5003F8614 /* JAALEEMainViewController.h */,
+				C43FEF791BD77BE5003F8614 /* JAALEEMainViewController.m */,
+				C43FEF7B1BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.h */,
+				C43FEF7C1BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.m */,
+			);
+			path = "Support JAALEE";
+			sourceTree = "<group>";
+		};
 		C4588BD31BAA4B27005D9357 /* Rely on lib */ = {
 			isa = PBXGroup;
 			children = (
@@ -70,6 +138,8 @@
 			isa = PBXGroup;
 			children = (
 				C4588BFD1BAA659D005D9357 /* JAALEE_SDK.framework */,
+				C43FEF6F1BD77BE5003F8614 /* Support JAALEE */,
+				C43FEF601BD77B45003F8614 /* RES */,
 				C4588BD31BAA4B27005D9357 /* Rely on lib */,
 				C4891AC01BA9766300A63FBE /* JAALEEDemo */,
 				C4891ADD1BA9766400A63FBE /* JAALEEDemoTests */,
@@ -88,6 +158,9 @@
 		C4891AC01BA9766300A63FBE /* JAALEEDemo */ = {
 			isa = PBXGroup;
 			children = (
+				C43FEF831BD77DF2003F8614 /* SVProgressHUD.bundle */,
+				C43FEF841BD77DF2003F8614 /* WaitProgressShow.h */,
+				C43FEF851BD77DF2003F8614 /* WaitProgressShow.m */,
 				C4891AC51BA9766300A63FBE /* AppDelegate.h */,
 				C4891AC61BA9766300A63FBE /* AppDelegate.m */,
 				C4891AC81BA9766300A63FBE /* FirstViewController.h */,
@@ -185,9 +258,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C43FEF891BD7A117003F8614 /* Buttom_item_JAALEE@2x.png in Resources */,
+				C43FEF681BD77B45003F8614 /* JAALEE_Img_Connectable@2x.png in Resources */,
+				C43FEF691BD77B45003F8614 /* JAALEE_Img_Non_Connectable@2x.png in Resources */,
+				C43FEF6B1BD77B45003F8614 /* JAALEE_Main_Cycle@2x.png in Resources */,
 				C4891AD01BA9766300A63FBE /* Main.storyboard in Resources */,
+				C43FEF671BD77B45003F8614 /* JAALEE_Connectable@2x.png in Resources */,
 				C4891AD51BA9766300A63FBE /* LaunchScreen.xib in Resources */,
+				C43FEF6A1BD77B45003F8614 /* JAALEE_Main_Back@2x.png in Resources */,
+				C43FEF6C1BD77B45003F8614 /* JAALEE_Non_Connectable@2x.png in Resources */,
 				C4891AD21BA9766300A63FBE /* Images.xcassets in Resources */,
+				C43FEF6E1BD77B7E003F8614 /* NEW_MAIN_BACK@2x.png in Resources */,
+				C43FEF861BD77DF2003F8614 /* SVProgressHUD.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,10 +280,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C43FEF871BD77DF2003F8614 /* WaitProgressShow.m in Sources */,
 				C4891ACD1BA9766300A63FBE /* SecondViewController.m in Sources */,
 				C4891AC71BA9766300A63FBE /* AppDelegate.m in Sources */,
 				C4891ACA1BA9766300A63FBE /* FirstViewController.m in Sources */,
+				C43FEF7F1BD77BE5003F8614 /* JAALEEDATAConfigureViewController.m in Sources */,
+				C43FEF7E1BD77BE5003F8614 /* JAALEECONFIGUREViewController.m in Sources */,
+				C43FEF7D1BD77BE5003F8614 /* JAALEEChannelSelectViewController.m in Sources */,
+				C43FEF811BD77BE5003F8614 /* JAALEEMainViewController.m in Sources */,
 				C4891AC41BA9766300A63FBE /* main.m in Sources */,
+				C43FEF821BD77BE5003F8614 /* JAALEETXPOWERSETTINGViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,7 +398,10 @@
 		C4891AE51BA9766400A63FBE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				ARCHS = (
+					"$(ARCHS_STANDARD)",
+					armv7s,
+				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -332,7 +423,10 @@
 		C4891AE61BA9766400A63FBE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD)";
+				ARCHS = (
+					"$(ARCHS_STANDARD)",
+					armv7s,
+				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",

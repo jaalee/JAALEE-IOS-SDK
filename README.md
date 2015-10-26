@@ -3,3 +3,9 @@ JAALEE IOS SDK supports users detect ibeacons and Eddystone nearby. By using J
 About JAALEE API KEY, please visit: https://cloud.jaalee.com/## 1.0 (September 17, 2015)Features:  - Ranging iBeacons and Eddystone beacons  - Connect JAALEE device and reconfiguration the JAALEE. 
 
 ## 1.1 (September 25, 2015)Features:  - Support IOS 9
+
+## 1.2 (October 19, 2015)Features:  - Support Bitcode.
+  - Support Both iphoneos & iphonesimulator
+
+## 1.3 (October 21, 2015)Features:  - Bug Fixes.
+  - New Demo.
